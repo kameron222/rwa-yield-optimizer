@@ -12,6 +12,13 @@ Depositors receive vault shares (ERC-4626) backed by diversified on-chain yield.
 
 ---
 
+## Site
+<img width="1424" height="794" alt="Screenshot 2026-04-20 at 10 39 42 PM" src="https://github.com/user-attachments/assets/4b3f97c9-af9e-46a5-b2bb-3238f1443fbc" />
+
+<img width="1410" height="773" alt="Screenshot 2026-04-20 at 10 39 57 PM" src="https://github.com/user-attachments/assets/385d6c2a-47f8-4ee3-9486-446296c399b7" />
+
+
+
 ## Architecture
 
 ```
